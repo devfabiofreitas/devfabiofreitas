@@ -7,7 +7,7 @@
 
 ### About me
 
-passionate about challenges, i'm always looking to gain knowledge and overcome my limits.
+Passionate about challenges, i'm always looking to gain knowledge and overcome my limits.
 i'm failiarized with back end but i'm always open to new experiences.
 
 
@@ -16,4 +16,4 @@ My hobbies are:
 
 Play soccer ⚽
 Play guitarr and piano 🎹 🎸
-and obviously develop software 🤩
+And obviously develop software 🤩
