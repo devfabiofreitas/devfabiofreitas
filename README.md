@@ -14,6 +14,6 @@ i'm failiarized with back end but i'm always open to new experiences.
 
 My hobbies are:
 
-Play soccer ⚽
-Play guitarr and piano 🎹 🎸
-And obviously develop software 🤩
+- Play soccer ⚽ 
+- Play guitarr and piano 🎹 🎸
+- And obviously develop software 🤩
