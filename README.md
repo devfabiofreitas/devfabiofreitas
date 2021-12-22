@@ -1,6 +1,6 @@
 ### Hi everyone👋
 
-- 🌱 I’m currently learning about Elixir
+- 🌱 I'm currently learning Elixir, but I have experience and knowledge about Node, React and typescript.
 
 - 📫 LinkedIn:https://www.linkedin.com/in/f%C3%A1biofreitasff
 - ✉️ Email: fabiofreitasdrey@gmail.com
