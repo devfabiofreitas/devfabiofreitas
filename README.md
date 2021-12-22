@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi everyone👋
 
-<!--
-**devfabiofreitas/devfabiofreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about Elixir
 
-Here are some ideas to get you started:
+- 📫 LinkedIn:https://www.linkedin.com/in/f%C3%A1biofreitasff
+- ✉️ Email: fabiofreitasdrey@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+passionate about challenges, i'm always looking to gain knowledge and overcome my limits.
+i'm failiarized with back end but i'm always open to new experiences.
+
+
+
+My hobbies are:
+
+Play soccer ⚽
+Play guitarr and piano 🎹 🎸
+and obviously develop software 🤩
